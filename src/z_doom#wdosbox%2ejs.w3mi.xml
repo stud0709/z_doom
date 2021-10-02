@@ -14,14 +14,14 @@
     <WWWPARAMS>
      <RELID>MI</RELID>
      <OBJID>Z_DOOM/WDOSBOX.JS</OBJID>
-     <NAME>mimetype</NAME>
-     <VALUE>application/octet-stream</VALUE>
+     <NAME>fileextension</NAME>
+     <VALUE>.js</VALUE>
     </WWWPARAMS>
     <WWWPARAMS>
      <RELID>MI</RELID>
      <OBJID>Z_DOOM/WDOSBOX.JS</OBJID>
-     <NAME>fileextension</NAME>
-     <VALUE>.js</VALUE>
+     <NAME>mimetype</NAME>
+     <VALUE>text/javascript</VALUE>
     </WWWPARAMS>
    </PARAMS>
   </asx:values>

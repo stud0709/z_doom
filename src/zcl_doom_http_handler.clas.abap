@@ -68,7 +68,11 @@ CLASS ZCL_DOOM_HTTP_HANDLER IMPLEMENTATION.
       RETURN.
     ENDIF.
 
-    server->response->set_content_type( content_type = |{ params-cont_type }| ).
+    IF <fs>-value CP |*.html| OR <fs>-value CP |*.js| OR <fs>-value CP |*.css|.
+      server->response->set_content_type( content_type = |{ params-cont_type };charset=utf-8| ).
+    ELSE.
+      server->response->set_content_type( content_type = |{ params-cont_type }| ).
+    ENDIF.
     server->response->set_data( data = response ).
 
   ENDMETHOD.

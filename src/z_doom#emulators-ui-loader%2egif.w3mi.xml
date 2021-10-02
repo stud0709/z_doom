@@ -2,26 +2,26 @@
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_W3MI" serializer_version="v2.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
-   <NAME>Z_DOOM/FAVICON.ICO</NAME>
-   <TEXT>js-dos icon</TEXT>
+   <NAME>Z_DOOM/EMULATORS-UI-LOADER.GIF</NAME>
+   <TEXT>progress indicator</TEXT>
    <PARAMS>
     <WWWPARAMS>
      <RELID>MI</RELID>
-     <OBJID>Z_DOOM/FAVICON.ICO</OBJID>
+     <OBJID>Z_DOOM/EMULATORS-UI-LOADER.GIF</OBJID>
      <NAME>filename</NAME>
-     <VALUE>favicon.ico</VALUE>
+     <VALUE>emulators-ui-loader.gif</VALUE>
     </WWWPARAMS>
     <WWWPARAMS>
      <RELID>MI</RELID>
-     <OBJID>Z_DOOM/FAVICON.ICO</OBJID>
+     <OBJID>Z_DOOM/EMULATORS-UI-LOADER.GIF</OBJID>
      <NAME>mimetype</NAME>
-     <VALUE>image/ico</VALUE>
+     <VALUE>image/gif</VALUE>
     </WWWPARAMS>
     <WWWPARAMS>
      <RELID>MI</RELID>
-     <OBJID>Z_DOOM/FAVICON.ICO</OBJID>
+     <OBJID>Z_DOOM/EMULATORS-UI-LOADER.GIF</OBJID>
      <NAME>fileextension</NAME>
-     <VALUE>.ico</VALUE>
+     <VALUE>.gif</VALUE>
     </WWWPARAMS>
    </PARAMS>
   </asx:values>
