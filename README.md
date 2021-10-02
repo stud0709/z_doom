@@ -17,3 +17,5 @@
 - Mouse is not available
 - ESC is captured by SAP GUI and not sent to the game. Use virtual keyboard in the game window to press ESC
 - Feel free to contribute!
+
+![Screenshot](screenshot.png)
