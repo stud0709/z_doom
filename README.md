@@ -5,7 +5,7 @@
 
 ### Prerequisites
 - SAP GUI 7.70+
-- AS ABAP 1909 or later (if you don't have one, you can get the [Developer Edition](https://blogs.sap.com/2021/02/16/sap-abap-platform-1909-developer-edition-installation-on-windows-os/)
+- AS ABAP 1909 or later (if you don't have one, you can get the [Developer Edition](https://blogs.sap.com/2021/02/16/sap-abap-platform-1909-developer-edition-installation-on-windows-os/))
 
 ### Installation
 - Go to your Client's "Customize Local Layout (Alt+F12)" dialog -> Interaction Design -> Control Settings and change HTML Control to Edge.
